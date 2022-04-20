@@ -30,8 +30,8 @@ I used the adobe portfolio creator, adding images I composed last semester. I st
 Break points on Adobe mock up are <540(tablet, <770(desktop)
 ### Challenges Faced 
 
-1. 
-2. Challenge 2
+1. Trying to figure out which breakpoints to use without customizing bootstrap or reskin.
+2. Getting the navigation to match using either navbar or navigation class
 3. Challenge 3
 
 ### Overcoming Challenges
@@ -44,7 +44,10 @@ Break points on Adobe mock up are <540(tablet, <770(desktop)
 
 ## What I learned
 
-Learning stuff
+The different breakpoints of bootstrap and the responsiveness of them. 
+The nesting of elements.
+More insight with inspector tools.
+
 
 ---
 
